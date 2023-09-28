@@ -99,9 +99,7 @@ Results of KDT and the baseline transformers on MDQA and MedQuAD (%)
 | K-BERT        | 99.2         | 99.8          |
 | KDT           | 99.4         | 99.9          |
 
- MDQA dataset | Train | Dev | Test | Total |
---------------|----------------|------------------|-------|-----|------|-------
-[MDQA](https://drive.google.com/drive/u/0/folders/1H69vwCxcrmPJE47UxeNAeYY8otvJpWmB) | 8102 | 1012 | 1012 | 10126 |
+
 
 
 ## Acknowledgement
