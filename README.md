@@ -81,6 +81,13 @@ useage: [--pretrained_model_path] - Path to the pre-trained model parameters.
         [--output_model_path] - Path to the output model.
 ```
 
+## Dataset Splitting
+
+| Dataset Name                  | Total Records | Train Set (70%) | Test Set (20%) | Validation Set (10%) |
+|-------------------------------|---------------|------------------|----------------|-----------------------|
+| Patient Syndrome Description  | 2.6 million   | 1,820,000        | 520,000        | 260,000               |
+| Diagnosis Q&A                 | 1.73 million  | 1,211,000        | 346,000        | 173,000               |
+
 ### Classification benchmarks
 
 Results of KDT and the baseline transformers on MDQA and MedQuAD (%)
