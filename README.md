@@ -83,10 +83,10 @@ useage: [--pretrained_model_path] - Path to the pre-trained model parameters.
 
 ## Dataset Splitting
 
-| Dataset Name                  | Total Records | Train Set (70%) | Test Set (20%) | Validation Set (10%)   | Data Source    | Bash Script |
+| Dataset Name                  | Total Records | Train Set (70%) | Test Set (20%) | Validation Set (10%)   | Data Source    | 
 |-------------------------------|---------------|------------------|----------------|-------------------------|----------------|-------------|
-| Patient Syndrome Description  | 2.6 million   | 1,820,000        | 520,000        | 260,000                 | [Google Sheets](https://docs.google.com/spreadsheets/d/19U7Z5Zz2QXm2DQT52fHASZZ-NjrcY1G8/edit?usp=drive_web&ouid=117840673524464449789&rtpof=true) | [Script](#patient-syndrome-description-dataset) |
-| Diagnosis Q&A                 | 1.73 million  | 1,211,000        | 346,000        | 173,000                 | [Google Sheets](https://docs.google.com/spreadsheets/d/1hYNXeobhHPBM1uiHa_YLZFbPh--Jmal2/edit?usp=drive_web&ouid=117840673524464449789&rtpof=true) | [Script](#diagnosis-qa-dataset) |
+| Patient Syndrome Description  | 2.6 million   | 1,820,000        | 520,000        | 260,000                 | [Google Sheets](https://docs.google.com/spreadsheets/d/19U7Z5Zz2QXm2DQT52fHASZZ-NjrcY1G8/edit?usp=drive_web&ouid=117840673524464449789&rtpof=true) | 
+| Diagnosis Q&A                 | 1.73 million  | 1,211,000        | 346,000        | 173,000                 | [Google Sheets](https://docs.google.com/spreadsheets/d/1hYNXeobhHPBM1uiHa_YLZFbPh--Jmal2/edit?usp=drive_web&ouid=117840673524464449789&rtpof=true) | 
 
 
 
