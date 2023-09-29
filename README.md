@@ -89,7 +89,7 @@ useage: [--pretrained_model_path] - Path to the pre-trained model parameters.
 | Diagnosis Q&A                 | 1.73 million  | 1,211,000        | 346,000        | 173,000                 | [Q&A](https://docs.google.com/spreadsheets/d/1hYNXeobhHPBM1uiHa_YLZFbPh--Jmal2/edit?usp=drive_web&ouid=117840673524464449789&rtpof=true) | 
 
 
-| Dataset Name | Total Records | Train Set (70%) | Test Set (20%) | Validation Set (10%) |
+| Dataset Name | Total Records | Train Set (70%) | Test Set (20%) | Validation Set (10%)  |
 |--------------|---------------|-----------------|----------------|-----------------------|
 | MedQuAD      | 114,000       | 91,200          | 22,800         | 11,400                |
 
